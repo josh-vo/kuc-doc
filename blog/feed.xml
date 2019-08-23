@@ -2,21 +2,21 @@
 <rss version="2.0">
     <channel>
         <title>kintone UI Component Blog</title>
-        <link>https://phongnhat19.github.io/kuc-doc/blog</link>
+        <link>https://josh-vo.github.io/kuc-doc/blog</link>
         <description>The best place to stay up-to-date with the latest kintone UI Component news and events.</description>
         <lastBuildDate>Tue, 24 Oct 2017 06:00:00 GMT</lastBuildDate>
         <docs>http://blogs.law.harvard.edu/tech/rss</docs>
         <generator>Feed for Node.js</generator>
         <image>
             <title>kintone UI Component Blog</title>
-            <url>https://phongnhat19.github.io/kuc-doc/img/favicon.ico</url>
-            <link>https://phongnhat19.github.io/kuc-doc/blog</link>
+            <url>https://josh-vo.github.io/kuc-doc/img/favicon.ico</url>
+            <link>https://josh-vo.github.io/kuc-doc/blog</link>
         </image>
         <copyright>Copyright © 2019 Cybozu</copyright>
         <item>
             <title><![CDATA[New Version 1.0.0]]></title>
-            <link>https://phongnhat19.github.io/kuc-doc/blog/2017/10/24/new-version-1.0.0.html</link>
-            <guid>https://phongnhat19.github.io/kuc-doc/blog/2017/10/24/new-version-1.0.0.html</guid>
+            <link>https://josh-vo.github.io/kuc-doc/blog/2017/10/24/new-version-1.0.0.html</link>
+            <guid>https://josh-vo.github.io/kuc-doc/blog/2017/10/24/new-version-1.0.0.html</guid>
             <pubDate>Tue, 24 Oct 2017 06:00:00 GMT</pubDate>
             <description><![CDATA[<p>This blog post will test file name parsing issues when periods are present.</p> ]]></description>
         </item>
